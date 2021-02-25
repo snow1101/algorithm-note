@@ -17,3 +17,5 @@ a()
 ```
 
 例如算法题-[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+
+### 队列 —— *先进先出*。比如js异步中的任务队列
